@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pavankumar2023
 - 👀 I’m interested in DevOps and Full stack development 
 - 🌱 I’m currently learning DevOps and AWS Cloud 
-- 💞️ I’m looking to collaborate on 
+- 💞 I’m looking to collaborate to learn more about DevOps and AWS 
 - 📫 How to reach me ... Pavanpnk10@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
