@@ -1,7 +1,6 @@
 - 👋 Hey Hi, I’m Pavan Kumar
-- 👀 I’m interested in DevOps and Full stack development 
-- 🌱 I’m currently learning DevOps and AWS Cloud 
-- 💞 I’m looking to collaborate to learn more about DevOps and AWS 
+- 👀 I’m interested in MERN stack development & Software development
+- 💞 I’m looking to collaborate to learn about emerging technologies 
 - 📫 How to reach me ... Pavanpnk10@gmail.com
 
   
