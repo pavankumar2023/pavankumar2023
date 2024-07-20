@@ -1,5 +1,5 @@
 - 👋 Hey Hi, I’m Pavan Kumar
-- 👀 I’m interested in MERN stack development & Software development & Cyber security 
+- 👀 I’m interested in Full Stack Development & Software Development & Cybersecurity Anaylst 
 -  I’m learning about emerging technologies 
 - 📫 How to reach me ... Pavanpnk10@gmail.com
 
